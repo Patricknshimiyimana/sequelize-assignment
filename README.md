@@ -21,4 +21,4 @@ Deadline Friday/Saturday
 Resource: https://www.youtube.com/watch?v=Eu-h3iUk45o  👉 For understanding seeding and migrations
 
 https://www.weblearningblog.com/nodejs/simple-login-and-registration-with-expressjs-sequelize-bcrypt-and-jwt/
- 👆 For Simple Login and Registration with ExpressJS, Sequelize, bcrypt and JWT
+ 👉 For Simple Login and Registration with ExpressJS, Sequelize, bcrypt and JWT
