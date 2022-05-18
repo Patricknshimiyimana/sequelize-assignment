@@ -1,14 +1,15 @@
 # sequelize-assignment
-atlp pre-project-phase project
+# atlp pre-project-phase project
 
 Sequelize Project
 
-This project consiste to just two endpoints
-Login
-Email & Password: the user should provide email and password and be presented with a token as a successful  authentication
+👉  This project consists of just two endpoints
 
+👉  create user
 
-Profile Edit: The user should be able to edit the name, age and address.
+👉  Login user: Email & Password: the user should provide email and password and be presented with a token as a successful  authentication
+
+👉  Profile Edit: The user should be able to edit the name, age and address.
 
 Use
 Node.js
